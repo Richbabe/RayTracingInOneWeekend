@@ -1,5 +1,7 @@
 # RayTracingInOneWeekend
 
+![Image](https://github.com/Richbabe/RayTracingInOneWeekend/blob/main/Image/FinalResult.png?raw=true)
+
 ## 8. Diffuse Materials
 ![Image](https://github.com/Richbabe/RayTracingInOneWeekend/blob/main/Image/DiffuseModelsCompare.png?raw=true)
 
@@ -90,3 +92,7 @@ $$ \frac{1.5}{1.0} · sin\theta > 1.0 $$
 考虑了全内反射和菲涅尔现象后的代码如下：
 
 ![Image](https://github.com/Richbabe/RayTracingInOneWeekend/blob/main/Image/RefractionWithReflection.png?raw=true)
+
+
+## Ref
+[Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
